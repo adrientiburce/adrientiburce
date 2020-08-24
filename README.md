@@ -2,6 +2,9 @@
     <a href="https://www.linkedin.com/in/adrientiburce-centralelille/">
       <img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
+    <a href="https://stackoverflow.com/users/11619849/a-ecrubit">
+            <img alt="stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-F48023?style=for-the-badge&labelColor=F48023&logo=stackoverflow&logoColor=white" />
+        </a>
     <a href="https://www.instagram.com/adrientiburce/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-c14584?style=for-the-badge&labelColor=c14584&logo=instagram&logoColor=white" />
     </a>
@@ -81,7 +84,7 @@ I just started **a blog** you can read my first articles [here](https://adrienti
 <tr>
 <td align="center" width="20%">
 <img height=45px src="https://img.icons8.com/color/48/000000/django.png">
-<span><b><center>Djago</center></b></span>
+<span><b><center>Django</center></b></span>
 </td>
     
 <td align="center" width="20%">
