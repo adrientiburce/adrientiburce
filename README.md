@@ -4,9 +4,6 @@
     </a>
     <a href="https://stackoverflow.com/users/11619849/a-ecrubit">
             <img alt="stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-F48023?style=for-the-badge&labelColor=F48023&logo=stackoverflow&logoColor=white" />
-        </a>
-    <a href="https://www.instagram.com/adrientiburce/">
-      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-c14584?style=for-the-badge&labelColor=c14584&logo=instagram&logoColor=white" />
     </a>
  </p>
 
@@ -16,66 +13,44 @@
 I just started **a blog** you can read my first articles [here](https://adrientiburce.webrush.fr/).
 
 
-
 -------------
 
-
-### Tools 🔧 💻
-
-<table>
-<tbody>
-<tr>
-
-<td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/metro/26/000000/2x/mac-os.png">
-<b><center>MacOS</center></b>
-</td>
-    
-<td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/cute-clipart/64/000000/2x/console.png">
-<span><b><center>Bash</center></b></span>
-</td>
-
-</tr>
-</tbody>
-</table>
+### ⚡ Languages ⚡ 
 
 
-### Languages ⚡ 
-
-
-<table style="display: inline-block">
+<div align="center">
+<table align="center">
 <tbody>
 <tr>
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/2x/javascript.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/2x/javascript.png">
 <span><b><center>Javascript</center></b></span>
 </td>
 
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/ultraviolet/2x/react.png">
+<img height=40px src="https://img.icons8.com/ultraviolet/2x/react.png">
 <span><b><center>ReactJS</center></b></span>
 </td>
 
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/2x/sass.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/2x/sass.png">
 <span><b><center>Sass</center></b></span>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/offices/30/000000/2x/php-logo.png">
+<img height=40px src="https://img.icons8.com/offices/30/000000/2x/php-logo.png">
 <span><b><center>PHP</center></b></span>
 </td>
     
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/2x/symfony.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/2x/symfony.png">
 <span><b><center>Symfony</center></b></span>
 </td>
 
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/2x/python.png">
+<img height=40px src="https://img.icons8.com/color/2x/python.png">
 <span><b><center>Python</center></b></span>
 </td>
 
@@ -83,17 +58,17 @@ I just started **a blog** you can read my first articles [here](https://adrienti
 
 <tr>
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/django.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/django.png">
 <span><b><center>Django</center></b></span>
 </td>
     
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/golang.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/golang.png">
 <span><b><center>Go</center></b></span>
 </td>
 
 <td align="center" width="20%">
-<img height=45px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<img height=40px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 <span><b><center>Java</center></b></span>
 </td>
 </tr>
@@ -101,20 +76,7 @@ I just started **a blog** you can read my first articles [here](https://adrienti
 </tbody>
 </table>
 
+
 <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrientiburce&layout=compact" />
 
-
-<!--
-**adrientiburce/adrientiburce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
