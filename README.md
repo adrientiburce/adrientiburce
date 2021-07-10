@@ -10,7 +10,7 @@
 ### Hi, I'm Adrien 👋
 
 ✌️ I'm a french developer, working mainly with PHP and Javascript thanks to Symfony and React JS or React Native.
-I just started **a blog** you can read my first articles [here](https://adrientiburce.webrush.fr/).
+I just started **a blog** you can read my first articles [here](https://adrien-blog.netlify.app).
 
 
 -------------
