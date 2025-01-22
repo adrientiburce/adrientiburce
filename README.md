@@ -9,10 +9,6 @@
 
 ### Hi, I'm Adrien 👋
 
-✌️ I'm a french developer, working mainly with PHP and Javascript thanks to Symfony and React JS or React Native.
-I just started **a blog** you can read my first articles [here](https://adrien-blog.netlify.app).
-
-
 -------------
 
 ### ⚡ Languages ⚡ 
@@ -21,6 +17,24 @@ I just started **a blog** you can read my first articles [here](https://adrien-b
 <div align="center">
 <table align="center">
 <tbody>
+    
+<tr>
+<td align="center" width="20%">
+<img height=40px src="https://img.icons8.com/color/48/000000/golang.png">
+<span><b><center>Go</center></b></span>
+</td>
+    
+<td align="center" width="20%">
+<img height=40px src="https://img.icons8.com/color/48/000000/django.png">
+<span><b><center>Django</center></b></span>
+</td>
+    
+<td align="center" width="20%">
+<img height=40px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<span><b><center>Java</center></b></span>
+</td>
+</tr>
+
 <tr>
 <td align="center" width="20%">
 <img height=40px src="https://img.icons8.com/color/48/000000/2x/javascript.png">
@@ -53,25 +67,9 @@ I just started **a blog** you can read my first articles [here](https://adrien-b
 <img height=40px src="https://img.icons8.com/color/2x/python.png">
 <span><b><center>Python</center></b></span>
 </td>
-
 </tr>
 
-<tr>
-<td align="center" width="20%">
-<img height=40px src="https://img.icons8.com/color/48/000000/django.png">
-<span><b><center>Django</center></b></span>
-</td>
-    
-<td align="center" width="20%">
-<img height=40px src="https://img.icons8.com/color/48/000000/golang.png">
-<span><b><center>Go</center></b></span>
-</td>
 
-<td align="center" width="20%">
-<img height=40px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-<span><b><center>Java</center></b></span>
-</td>
-</tr>
 
 </tbody>
 </table>
